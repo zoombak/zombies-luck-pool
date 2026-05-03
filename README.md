@@ -38,7 +38,7 @@ docker-compose up -d
 This is a **commercial project**.  
 Full source code available for purchase — **exclusive license**.
 
-📧 Contact: zombak47@proton.me
+📧 Contact: zoombak47@gmail.com
 
 ## 🔧 Tech Stack
 
