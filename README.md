@@ -47,3 +47,8 @@ Full source code available for purchase — **exclusive license**.
 - s-nomp stratum server
 - ckpool
 - Telegram Bot API
+![Main](666.png)
+![Miners](6.png)
+![Stats](66.png)
+![Bot](6666.png)
+![Agreement](66666.png)
